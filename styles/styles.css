@@ -54,8 +54,8 @@ header {
     background-repeat: no-repeat;
     background-position: top center;
 }
-.header-text {
-    margin: 180px 0;
+hgroup {
+    margin: 0 0 240px 0;
 }
 
 /*///////////// 3.2 Testimonial /////////////*/
