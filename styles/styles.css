@@ -39,9 +39,9 @@ h1 {
 
 /*///////////// 3.1 Header /////////////*/
 header {
-    background-image: url("../assets/images/mountains.jpg");
     width: 100%;
     height: auto;
+    min-height: 50vw;
     color: #1C2B32;
     display: flex;
     flex-direction: column;
@@ -49,6 +49,13 @@ header {
     align-items: center;
     text-align: center;
     padding: 50px 0;
+    background-image: url("../assets/images/mountains.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.header-text {
+    margin: 180px 0;
 }
 
 /*///////////// 3.2 Testimonial /////////////*/
