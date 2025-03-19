@@ -57,6 +57,19 @@ header {
 hgroup {
     margin: 0 0 240px 0;
 }
+.header-text{
+    margin-top: -100px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px #1C2B32 solid;
+    border-radius: 25px;
+    padding: 10px 0;
+    color: aliceblue;
+    background-color: #1C2B32;
+}
+#check-is-vrij{
+    padding: 0 50px;
+}
 
 /*///////////// 3.2 Testimonial /////////////*/
 
